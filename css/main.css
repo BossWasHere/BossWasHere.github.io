@@ -15,4 +15,11 @@ h1 {
 	font-weight: bold;
 	text-align: center;
 	font-size: 45px;
+	padding: 10px;
+}
+
+.place {
+	display: flex;
+	justify-content: center;
+	padding: 80px;
 }

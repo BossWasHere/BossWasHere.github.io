@@ -19,7 +19,7 @@ Please note:
   - To make sure that we can be sure who you are, we ask that you must be a member to participate in development on the Discord server
   - Don't modify the base (*main.css*) stylesheet unless you are changing pre-existing parameters, create a new one
 
-Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Discord Server]
+You can find all and more information about the server itself - on the server itself: [Discord Server]
 
 > Also remember:<br />
 > The content rules found on<br />
